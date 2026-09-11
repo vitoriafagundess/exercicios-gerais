@@ -1,0 +1,4 @@
+data.c: In function ‘calcularDiffAnosData’:
+data.c:56:56: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+   56 |     if(fim.mes < inicio.mes || (fim.mes == inicio.mes) && (fim.dia < inicio.dia))
+      |                                ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~

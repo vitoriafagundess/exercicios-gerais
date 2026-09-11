@@ -1,0 +1,13 @@
+livro.c: In function ‘leLivro’:
+livro.c:57:9: warning: unused variable ‘quantidadeExemplares’ [-Wunused-variable]
+   57 |     int quantidadeExemplares;
+      |         ^~~~~~~~~~~~~~~~~~~~
+livro.c:56:10: warning: unused variable ‘genero’ [-Wunused-variable]
+   56 |     char genero[MAX_TAM_GENERO_LIVRO];
+      |          ^~~~~~
+livro.c:55:10: warning: unused variable ‘codigo’ [-Wunused-variable]
+   55 |     char codigo[MAX_TAM_COD_LIVRO];
+      |          ^~~~~~
+livro.c:54:10: warning: unused variable ‘titulo’ [-Wunused-variable]
+   54 |     char titulo[MAX_TAM_TITULO_LIVRO];
+      |          ^~~~~~

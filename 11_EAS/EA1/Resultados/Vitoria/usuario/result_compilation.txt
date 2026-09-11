@@ -1,0 +1,10 @@
+usuario.c: In function ‘leUsuario’:
+usuario.c:59:10: warning: unused variable ‘categoria’ [-Wunused-variable]
+   59 |     char categoria[MAX_TAM_CATEGORIA_USUARIO];
+      |          ^~~~~~~~~
+usuario.c:58:10: warning: unused variable ‘matricula’ [-Wunused-variable]
+   58 |     char matricula[MAX_TAM_MATRICULA_USUARIO];
+      |          ^~~~~~~~~
+usuario.c:57:10: warning: unused variable ‘nome’ [-Wunused-variable]
+   57 |     char nome[MAX_TAM_NOME_USUARIO];
+      |          ^~~~

@@ -1,0 +1,15 @@
+==80244== Memcheck, a memory error detector
+==80244== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==80244== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==80244== Command: Resultados/Vitoria/temperature_conversor/prog Resultados/Vitoria/temperature_conversor/Casos/2
+==80244== Parent PID: 80243
+==80244== 
+==80244== 
+==80244== HEAP SUMMARY:
+==80244==     in use at exit: 0 bytes in 0 blocks
+==80244==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==80244== 
+==80244== All heap blocks were freed -- no leaks are possible
+==80244== 
+==80244== For lists of detected and suppressed errors, rerun with: -s
+==80244== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
