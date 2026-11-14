@@ -1,0 +1,6 @@
+2
+1 7 Yugi
+2 7 Kuriboh TREVAS 300
+2 7 Kuriboh TREVAS 900
+4
+0

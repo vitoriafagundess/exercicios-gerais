@@ -1,0 +1,424 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: Vitoria
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA Vitoria:
+ - Diretório Resultados/Vitoria criado com sucesso!
+ - Diretório Resultados/Vitoria/main criado com sucesso!
+ - Diretório Resultados/Vitoria/completo criado com sucesso!
+ - Diretório Resultados/Vitoria/carregador criado com sucesso!
+ - Diretório Resultados/Vitoria/estacao criado com sucesso!
+ - Diretório Resultados/Vitoria/veiculo criado com sucesso!
+ - Diretório Resultados/Vitoria/utils criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/Vitoria/carregador.c' encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/carregador.h' encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/estacao.c' encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/estacao.h' encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/main.c' não encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/utils.c' encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/utils.h' encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/veiculo.c' encontrado!
+ - Arquivo esperado 'Respostas/Vitoria/veiculo.h' encontrado!
+ - Arquivos esperados enviados: Faltando!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/Vitoria/main
+ - Copiando os Includes/carregador.h Includes/estacao.h Includes/utils.h Includes/veiculo.h do professor para a pasta Resultados/Vitoria/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Vitoria/main
+ - Removendo o main.o do professor da pasta Resultados/Vitoria/main
+ - Copiando o Respostas/Vitoria/main.c do aluno para a pasta Resultados/Vitoria/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/carregador.c do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/carregador.h do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/estacao.c do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/estacao.h do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/main.c do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/utils.c do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/utils.h do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/veiculo.c do aluno para a pasta Resultados/Vitoria/completo
+ - Copiando os Respostas/Vitoria/veiculo.h do aluno para a pasta Resultados/Vitoria/completo
+ - Pasta carregador:
+ - Copiando os Casos de teste para a pasta Resultados/Vitoria/carregador
+ - Copiando os Includes/carregador.h Includes/estacao.h Includes/utils.h Includes/veiculo.h do professor para a pasta Resultados/Vitoria/carregador
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Vitoria/carregador
+ - Removendo o carregador.o do professor da pasta Resultados/Vitoria/carregador
+ - Copiando o Respostas/Vitoria/carregador.c do aluno para a pasta Resultados/Vitoria/carregador
+ - Pasta estacao:
+ - Copiando os Casos de teste para a pasta Resultados/Vitoria/estacao
+ - Copiando os Includes/carregador.h Includes/estacao.h Includes/utils.h Includes/veiculo.h do professor para a pasta Resultados/Vitoria/estacao
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Vitoria/estacao
+ - Removendo o estacao.o do professor da pasta Resultados/Vitoria/estacao
+ - Copiando o Respostas/Vitoria/estacao.c do aluno para a pasta Resultados/Vitoria/estacao
+ - Pasta veiculo:
+ - Copiando os Casos de teste para a pasta Resultados/Vitoria/veiculo
+ - Copiando os Includes/carregador.h Includes/estacao.h Includes/utils.h Includes/veiculo.h do professor para a pasta Resultados/Vitoria/veiculo
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Vitoria/veiculo
+ - Removendo o veiculo.o do professor da pasta Resultados/Vitoria/veiculo
+ - Copiando o Respostas/Vitoria/veiculo.c do aluno para a pasta Resultados/Vitoria/veiculo
+ - Pasta utils:
+ - Copiando os Casos de teste para a pasta Resultados/Vitoria/utils
+ - Copiando os Includes/carregador.h Includes/estacao.h Includes/utils.h Includes/veiculo.h do professor para a pasta Resultados/Vitoria/utils
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Vitoria/utils
+ - Removendo o utils.o do professor da pasta Resultados/Vitoria/utils
+ - Copiando o Respostas/Vitoria/utils.c do aluno para a pasta Resultados/Vitoria/utils
+ - Copiando Arquivos Extras do Aluno:
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Erro de compilação! Verifique os arquivos da pasta main.
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/Vitoria/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta carregador ok!
+ - Arquivo de output gerado: Resultados/Vitoria/carregador/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta estacao ok!
+ - Arquivo de output gerado: Resultados/Vitoria/estacao/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta veiculo ok!
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta utils ok!
+ - Arquivo de output gerado: Resultados/Vitoria/utils/result_compilation.txt
+ - Arquivos Compilados: Erro!: 1 arquivos com erros de compilacao.
+
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Vitoria/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Vitoria/completo/result_linking.txt
+ - Pasta carregador:
+ - Gerando o binário prog linkando com o(s) arquivo(s) carregador/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Vitoria/carregador/result_linking.txt
+ - Pasta estacao:
+ - Gerando o binário prog linkando com o(s) arquivo(s) estacao/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Vitoria/estacao/result_linking.txt
+ - Pasta veiculo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) veiculo/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/result_linking.txt
+ - Pasta utils:
+ - Gerando o binário prog linkando com o(s) arquivo(s) utils/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Vitoria/utils/result_linking.txt
+ - Arquivos Linkados: Erro! 5 arquivos com erros de linkagem.
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 7:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 8:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 9:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta main (máximo 2.5) - 0 de 100 - 0% de 2.5: 0.
+ -----
+ - Pasta completo / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 7:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 8:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 9:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta completo (máximo 0) - 0 de 100 - 0% de 0: 0.
+ -----
+ - Pasta carregador / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 7:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 8:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta carregador / Caso 9:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta carregador (máximo 2.0) - 0 de 100 - 0% de 2.0: 0.
+ -----
+ - Pasta estacao / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 7:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 8:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta estacao / Caso 9:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta estacao (máximo 1.5) - 0 de 100 - 0% de 1.5: 0.
+ -----
+ - Pasta veiculo / Caso 1:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 20, frees: 20, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 10:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/10/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 123, frees: 123, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 2:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 8, frees: 8, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 3:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 4:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 5:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 10, frees: 10, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 6:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 12, frees: 12, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 7:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 18, frees: 18, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 8:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/8/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 20, frees: 20, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta veiculo / Caso 9:
+ - Arquivo de output gerado: Resultados/Vitoria/veiculo/Casos/9/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 31, frees: 31, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta veiculo (máximo 1.5) - 100.00 de 100 - 100.00% de 1.5: 1.50.
+ -----
+ - Pasta utils / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 7:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 8:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta utils / Caso 9:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 30.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta utils (máximo 2.5) - 0 de 100 - 0% de 2.5: 0.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: Vitoria
+ - Arquivos Esperados Corretos: 8 de 9
+ - Pastas Compiladas Corretamente: 5 de 6 
+ - Pastas Linkadas Corretamente: 1 de 6
+ - Teste main
+ - Resultados corretos: 0 de 10
+ - Valgrinds corretos: 0 de 10
+ - Nota de Vitoria para o teste main: 0
+ - Teste completo
+ - Resultados corretos: 0 de 10
+ - Valgrinds corretos: 0 de 10
+ - Nota de Vitoria para o teste completo: 0
+ - Teste carregador
+ - Resultados corretos: 0 de 10
+ - Valgrinds corretos: 0 de 10
+ - Nota de Vitoria para o teste carregador: 0
+ - Teste estacao
+ - Resultados corretos: 0 de 10
+ - Valgrinds corretos: 0 de 10
+ - Nota de Vitoria para o teste estacao: 0
+ - Teste veiculo
+ - Resultados corretos: 10 de 10
+ - Valgrinds corretos: 10 de 10
+ - Nota de Vitoria para o teste veiculo: 1.50
+ - Teste utils
+ - Resultados corretos: 0 de 10
+ - Valgrinds corretos: 0 de 10
+ - Nota de Vitoria para o teste utils: 0
+ - Nota de Vitoria: 0+(0)+(0)+(1.50)+(0)+(0)+(0)
+ - Nota de Vitoria: 1.50
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

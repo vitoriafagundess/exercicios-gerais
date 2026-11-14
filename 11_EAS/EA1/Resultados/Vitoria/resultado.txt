@@ -2,9 +2,9 @@ Arquivos Esperados Corretos: 7 de 7
 Pastas Compiladas Corretamente: 4 de 4 
 Pastas Linkadas Corretamente: 4 de 4
 Teste main
-  - Resultados corretos: 0 de 6
+  - Resultados corretos: 6 de 6
   - Valgrinds corretos: 6 de 6
-Nota de Vitoria para o teste main: 0
+Nota de Vitoria para o teste main: 5.00
 Teste emprestimo
   - Resultados corretos: 6 de 6
   - Valgrinds corretos: 6 de 6
@@ -17,5 +17,5 @@ Teste usuario
   - Resultados corretos: 6 de 6
   - Valgrinds corretos: 6 de 6
 Nota de Vitoria para o teste usuario: 1.50
-Nota de Vitoria: 0+(1.50)+(0)+(2.00)+(1.50)
-Nota de Vitoria: 5.00
+Nota de Vitoria: 0+(1.50)+(5.00)+(2.00)+(1.50)
+Nota de Vitoria: 10.00

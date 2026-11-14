@@ -1,0 +1,8 @@
+3
+1 1 Kaiba
+1 2 Joey
+2 1 DragaoBranco LUZ 3000
+2 2 DragaoVermelho TREVAS 2400
+3 1 DragaoBranco 500
+4
+0

@@ -1,0 +1,7 @@
+ERRO: carta Neos ja existe no baralho 9
+===| Relatorio de Baralhos |===
+Baralho: 9
+Duelista: Jaden
+Cartas: 2
+- Carta: Neos | Atributo: LUZ | ATK: 2800
+- Carta: Burstinatrix | Atributo: FOGO | ATK: 1200

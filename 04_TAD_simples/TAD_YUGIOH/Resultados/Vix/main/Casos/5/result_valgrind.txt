@@ -1,0 +1,15 @@
+==38092== Memcheck, a memory error detector
+==38092== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==38092== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==38092== Command: Resultados/Vix/main/prog Resultados/Vix/main/Casos/5
+==38092== Parent PID: 38091
+==38092== 
+==38092== 
+==38092== HEAP SUMMARY:
+==38092==     in use at exit: 0 bytes in 0 blocks
+==38092==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==38092== 
+==38092== All heap blocks were freed -- no leaks are possible
+==38092== 
+==38092== For lists of detected and suppressed errors, rerun with: -s
+==38092== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

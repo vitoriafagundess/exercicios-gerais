@@ -1,0 +1,6 @@
+ERRO: carta Kuriboh ja existe no baralho 7
+===| Relatorio de Baralhos |===
+Baralho: 7
+Duelista: Yugi
+Cartas: 1
+- Carta: Kuriboh | Atributo: TREVAS | ATK: 300

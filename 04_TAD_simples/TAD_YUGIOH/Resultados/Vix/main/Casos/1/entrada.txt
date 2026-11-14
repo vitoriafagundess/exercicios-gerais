@@ -1,0 +1,6 @@
+2
+1 10 Yugi
+2 10 Kuriboh TREVAS 300
+2 10 MagoNegro TREVAS 2500
+4
+0

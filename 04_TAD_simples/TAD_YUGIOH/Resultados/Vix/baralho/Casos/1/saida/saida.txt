@@ -1,0 +1,6 @@
+===| Relatorio de Baralhos |===
+Baralho: 10
+Duelista: Yugi
+Cartas: 2
+- Carta: Kuriboh | Atributo: TREVAS | ATK: 300
+- Carta: MagoNegro | Atributo: TREVAS | ATK: 2500

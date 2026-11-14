@@ -1,0 +1,16 @@
+/usr/bin/ld: Resultados/Vitoria/estacao/main.o: na função "criaRelatorio":
+main.c:(.text+0x60): undefined reference to `obtemNumCarregadoresEstacao'
+/usr/bin/ld: main.c:(.text+0x82): undefined reference to `qtdRecargasEstacao'
+/usr/bin/ld: main.c:(.text+0xa4): undefined reference to `qtdRecargasCompletasEstacao'
+/usr/bin/ld: main.c:(.text+0xc6): undefined reference to `calculaEnergiaEstacao'
+/usr/bin/ld: main.c:(.text+0xe8): undefined reference to `calculaFaturamentoEstacao'
+/usr/bin/ld: main.c:(.text+0x1b9): undefined reference to `imprimeFaturamentoEstacao'
+/usr/bin/ld: Resultados/Vitoria/estacao/main.o: na função "main":
+main.c:(.text+0x22d): undefined reference to `lerEstacao'
+/usr/bin/ld: main.c:(.text+0x39f): undefined reference to `liberaEstacao'
+/usr/bin/ld: Resultados/Vitoria/estacao/utils.o: na função "insereCarregadorEstacoes":
+utils.c:(.text+0x52): undefined reference to `obtemCodigoEstacao'
+/usr/bin/ld: utils.c:(.text+0x93): undefined reference to `adicionaCarregadorEstacao'
+/usr/bin/ld: Resultados/Vitoria/estacao/utils.o: na função "buscaCarregador":
+utils.c:(.text+0x190): undefined reference to `buscaCarregadorEstacao'
+collect2: error: ld returned 1 exit status

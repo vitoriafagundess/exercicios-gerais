@@ -1,0 +1,4 @@
+/usr/bin/ld: Resultados/Vitoria/utils/main.o: na função "main":
+main.c:(.text+0x2a0): undefined reference to `insereCarregadorEstacoes'
+/usr/bin/ld: main.c:(.text+0x320): undefined reference to `realizaRecarga'
+collect2: error: ld returned 1 exit status

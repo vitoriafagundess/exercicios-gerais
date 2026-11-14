@@ -1,0 +1,9 @@
+===| Relatorio de Baralhos |===
+Baralho: 1
+Duelista: Kaiba
+Cartas: 1
+- Carta: DragaoBranco | Atributo: LUZ | ATK: 3500
+Baralho: 2
+Duelista: Joey
+Cartas: 1
+- Carta: DragaoVermelho | Atributo: TREVAS | ATK: 2400

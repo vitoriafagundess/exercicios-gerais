@@ -1,0 +1,10 @@
+===| Relatorio de Baralhos |===
+===| Relatorio de Baralhos |===
+Baralho: 8
+Duelista: Mai
+Cartas: 0
+===| Relatorio de Baralhos |===
+Baralho: 8
+Duelista: Mai
+Cartas: 1
+- Carta: Harpia | Atributo: VENTO | ATK: 1500

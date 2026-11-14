@@ -1,0 +1,9 @@
+===| Relatorio de Baralhos |===
+Baralho: 3
+Duelista: Yugi
+Cartas: 1
+- Carta: Kuriboh | Atributo: TREVAS | ATK: 300
+Baralho: 4
+Duelista: Joey
+Cartas: 1
+- Carta: Kuriboh | Atributo: TREVAS | ATK: 400
